@@ -7,7 +7,7 @@
 6. Klik simpan dan install template berhasil!
 
 ====================:[ LICENSE ]:====================
-[i] Isi form ini untuk mendapatkan kode lisensi!
+Isi form ini untuk mendapatkan kode lisensi!
 - Nama:
 - Email:
 - No Whatsapp:
