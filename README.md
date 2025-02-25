@@ -7,12 +7,12 @@
 6. Klik simpan dan install template berhasil!
 
 ====================:[ LICENSE ]:====================
-Isi form ini untuk mendapatkan kode lisensi!
 - Nama:
 - Email:
 - No Whatsapp:
 - Domain Blog:
 
+[i] Isi form ini untuk mendapatkan kode lisensi!
 [i] Domain blog yang dikirim adalah blog telah terintsall template ini.
 [i] Lisensi akan terkait dengan Blog ID, sehingga anda tidak perlu generate ulang kode lisensi jika sewaktu-waktu mengganti domain.
 [i] Kirim form ke admin https://wa.me/628980440088
